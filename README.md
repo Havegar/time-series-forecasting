@@ -130,6 +130,7 @@ Passionate about data, astronomy, and understanding the hidden patterns in time.
 ## 📘 References
 
 - Box, G. E. P., Jenkins, G. M., Reinsel, G. C. (2015). *Time Series Analysis: Forecasting and Control*.
+- Shumway, R. H., & Stoffer, D. S. (2017). Time Series Analysis and Its Applications: With R Examples (4th ed.). Springer.
 - Hyndman, R. J., & Athanasopoulos, G. (2018). *Forecasting: Principles and Practice*.
 - [Statsmodels Documentation](https://www.statsmodels.org/stable/tsa.html)
 
