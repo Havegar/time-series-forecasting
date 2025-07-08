@@ -46,7 +46,7 @@ ARIMA models combine three key aspects:
 **Moving Average (MA)** part: The model also explains the current value based on past forecast errors (residuals). The order of this component is denoted by q.
 In short, ARIMA(p, d, q) models the series based on its own past values, past errors, and differences to stabilize the data.
 
-**SARIMA (Seasonal ARIMA) **
+**SARIMA (Seasonal ARIMA)**
 Many time series have seasonal patterns that repeat every fixed period (e.g., monthly sales, quarterly GDP). SARIMA extends ARIMA by adding seasonal components that capture this behavior.
 - Seasonal autoregressive terms (P) capture dependencies at seasonal lags (e.g., 12 months ago).
 - Seasonal differencing (D) removes seasonal trends to achieve stationarity.
